@@ -10,6 +10,7 @@ RGB Color Mapping in the Photo:
 <ul>
   <li></li>RED pixel indicates Altitude</ul>
 <li> BLUE pixel indicates Aspect</li>
-<li></li>GREEN pixel indicates Slope</li></ul>
+<li></li>GREEN pixel indicates Slope</li>
+</ul>
 The higher values denote higher altitude, aspect and slope.
 In this example, we will analyze a sample satellite image dataset from WIFIRE using the numpy Library.
