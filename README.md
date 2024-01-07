@@ -7,8 +7,9 @@ remote sensor data, with computational techniques in signal processing, visualiz
 assimilation to provide a scalable method to monitor such phenomena as weather patterns that can help 
 predict a wildfire's rate of spread.
 RGB Color Mapping in the Photo:
- RED pixel indicates Altitude
- BLUE pixel indicates Aspect
- GREEN pixel indicates Slope
+<ul>
+  <li></li>RED pixel indicates Altitude</ul>
+<li> BLUE pixel indicates Aspect</li>
+<li></li>GREEN pixel indicates Slope</li></ul>
 The higher values denote higher altitude, aspect and slope.
 In this example, we will analyze a sample satellite image dataset from WIFIRE using the numpy Library.
